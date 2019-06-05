@@ -6,3 +6,4 @@ Creating a new branch is quick.
 Creating a new branch is quick & and simple
 新git文件
 fdsfds
+新添加的一行
