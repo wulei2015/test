@@ -7,3 +7,4 @@ Creating a new branch is quick & and simple
 新git文件
 fdsfds
 在idea当中添加的一行
+新添加的一行
